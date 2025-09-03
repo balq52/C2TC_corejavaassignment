@@ -1,4 +1,4 @@
-package com.sreeja.assignment2;
+package com.balqees.assignment2;
 
 
 public class Main {
