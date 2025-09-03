@@ -1,4 +1,4 @@
-package com.sreeja.assignment1.utilities;
+package com.balqees.assignment1.utilities;
 
 import com.sreeja.assignment1.employees.Employee;
 
