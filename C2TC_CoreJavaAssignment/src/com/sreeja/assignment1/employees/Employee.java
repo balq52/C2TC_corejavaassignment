@@ -1,4 +1,4 @@
-package com.sreeja.assignment1.employees;
+package com.balqees.assignment1.employees;
 
 
 public class Employee {
