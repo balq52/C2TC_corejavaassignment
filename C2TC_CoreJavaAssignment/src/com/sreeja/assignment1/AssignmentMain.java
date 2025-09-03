@@ -1,7 +1,7 @@
-package com.sreeja.assignment1;
-import com.sreeja.assignment1.employees.Developer;
-import com.sreeja.assignment1.employees.Manager;
-import com.sreeja.assignment1.utilities.EmployeeUtilities;
+package com.balqees.assignment1;
+import com.balqees.assignment1.employees.Developer;
+import com.balqees.assignment1.employees.Manager;
+import com.balqees.assignment1.utilities.EmployeeUtilities;
 
 /**
  * Main class to demonstrate the functionality of Employee, Manager, and Developer.
